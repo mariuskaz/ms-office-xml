@@ -1,2 +1,2 @@
 # ms-office-xml
-Open Office XML scheme
+Open Office spreadsheet XML scheme
