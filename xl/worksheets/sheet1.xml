@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="x14ac" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac">
+<dimension ref="A1:D12"/>
+<sheetViews>
+<sheetView showGridLines="0" tabSelected="1" workbookViewId="0">
+<selection activeCell="A1" sqref="A1"/>
+</sheetView>
+</sheetViews>
+<sheetFormatPr defaultRowHeight="15" x14ac:dyDescent="0.25"/>
+<cols>
+<col min="1" max="1" width="35.7109375" customWidth="1"/>
+<col min="2" max="2" width="7.140625" customWidth="1"/>
+<col min="3" max="4" width="21.42578125" customWidth="1"/>
+</cols>
+<sheetData>
+<row r="1" spans="1:4" ht="23.25" x14ac:dyDescent="0.35">
+<c r="A1" s="1" t="s"><v>0</v></c>
+</row>
+<row r="3" spans="1:4" x14ac:dyDescent="0.25">
+<c r="A3" s="2" t="s"><v>1</v></c>
+</row>
+<row r="4" spans="1:4" x14ac:dyDescent="0.25">
+<c r="A4" s="3" t="s"><v>2</v></c>
+</row>
+<row r="5" spans="1:4" ht="15.75" thickBot="1" x14ac:dyDescent="0.3"/>
+<row r="6" spans="1:4" ht="30" customHeight="1" x14ac:dyDescent="0.25">
+<c r="A6" s="5" t="s"><v>3</v></c>
+<c r="B6" s="6" t="s"><v>4</v></c>
+<c r="C6" s="6" t="s"><v>5</v></c>
+<c r="D6" s="7" t="s"><v>6</v></c>
+</row>
+<row r="7" spans="1:4" ht="1.5" customHeight="1" x14ac:dyDescent="0.25">
+<c r="A7" s="8"/>
+<c r="D7" s="9"/>
+</row>
+<row r="8" spans="1:4" x14ac:dyDescent="0.25">
+<c r="A8" s="10" t="s"><v>7</v></c>
+<c r="B8" s="12" t="s"><v>8</v></c>
+<c r="C8" s="13"/>
+<c r="D8" s="14"/>
+</row>
+<row r="9" spans="1:4" x14ac:dyDescent="0.25">
+<c r="A9" s="10" t="s"><v>9</v></c>
+<c r="B9" s="4" t="s"><v>8</v></c>
+<c r="C9" s="4" t="s"><v>10</v></c>
+<c r="D9" s="11" t="s"><v>11</v></c>
+</row>
+<row r="10" spans="1:4" ht="174.75" customHeight="1" thickBot="1" x14ac:dyDescent="0.3">
+<c r="A10" s="15"/>
+<c r="B10" s="16"/>
+<c r="C10" s="16"/>
+<c r="D10" s="17"/>
+</row>
+<row r="12" spans="1:4" x14ac:dyDescent="0.25">
+<c r="A12" s="18" t="s"><v>12</v></c>
+</row>
+</sheetData>
+<mergeCells count="2"><mergeCell ref="B8:D8"/>
+<mergeCell ref="A10:D10"/></mergeCells>
+<pageMargins left="0.75" right="0.75" top="1" bottom="1" header="0.5" footer="0.5"/>
+<pageSetup orientation="portrait" horizontalDpi="0" verticalDpi="0" r:id="rId1"/>
+<drawing r:id="rId2"/>
+</worksheet>
